@@ -11,5 +11,7 @@ It is then the other player's turn. The first player to guess the right value wi
 Skills gained through this project:
 
 Coding skills in C++ (Arduino)
+
 Basis in robotics and mechatronics
+
 Use of sensors
