@@ -7,3 +7,9 @@ When started,  the user places their bets in the robot, which locks the bets. Th
 He then randomly who goes first. The aim of each player is to guess the other player's card.
 The firt player inputs a value, and the robot answers whether he is right, of if the actual card's value is higher or lower than his input.
 It is then the other player's turn. The first player to guess the right value wins gets the code of the safe, and can access his gains
+
+Skills gained through this project:
+
+Coding skills in C++ (Arduino)
+Basis in robotics and mechatronics
+Use of sensors
